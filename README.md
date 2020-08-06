@@ -1,7 +1,7 @@
-# Trabajo vs. Inversi&oacute;n
+# Notebooks de Jupyter
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nmercado1986/trabajo-vs-inversion/master)
+Este repo contiene notebooks de Jupyter varios.
 
-Este repo contiene un notebook de Jupyter representando distintos modelos (muy b&aacute;sicos) de relaciones entre capital y trabajo.
 
-*Lo que puede hacer Reddit y un poco de tiempo libre*
+## Datos covid-ar
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nmercado1986/jupyter-notebooks/master?filepath=covid-ar.ipynb)
